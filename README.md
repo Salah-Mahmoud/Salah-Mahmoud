@@ -1,4 +1,4 @@
-[![Salah](https://media.licdn.com/dms/image/D4D16AQFjvnNAmSOyEQ/profile-displaybackgroundimage-shrink_350_1400/0/1706176955098?e=1711584000&v=beta&t=w6gx7_owwcN8U67fmGsJn7cAnfBj9onLGu3WDCSFzUI)]
+![Salah](https://media.licdn.com/dms/image/D4D16AQFjvnNAmSOyEQ/profile-displaybackgroundimage-shrink_350_1400/0/1706176955098?e=1711584000&v=beta&t=w6gx7_owwcN8U67fmGsJn7cAnfBj9onLGu3WDCSFzUI)
 <h1 align="center">Hi 👋, I'm Salah Mahmoud</h1>
 <h3 align="center">An Egyptian data scientist</h3>
 <img align="right" alt="ds" with="400" src="https://indoanalytica.com/static/images/data-science-1.gif">
