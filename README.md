@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Data Science & ML & DL & Data Analysis & Computer Vision**
 
-- 📫 How to reach me **salah.mahmoud8889@gmmail.com**
+- 📫 How to reach me **salah.mahmoud8889@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
