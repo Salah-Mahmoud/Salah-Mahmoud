@@ -1,9 +1,9 @@
-![Salah's Profile Background](https://media.licdn.com/dms/image/D4D16AQFjvnNAmSOyEQ/profile-displaybackgroundimage-shrink_350_1400/0/1706176955098?e=1711584000&v=beta&t=w6gx7_owwcN8U67fmGsJn7cAnfBj9onLGu3WDCSFzUI)
-
 <h1 align="center">Hi 👋, I'm Salah Mahmoud</h1>
 <h3 align="center">An Egyptian Data Engineer</h3>
 
-<img align="right" alt="Data Science Graphic" width="400" src="https://i.redd.it/7wv74skyjki71.jpg">
+<div align="center">
+  <img alt="Data Science Graphic" width="400" src="https://i.redd.it/7wv74skyjki71.jpg">
+</div>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=Salah-Mahmoud&label=Profile%20views&color=0e75b6&style=flat" alt="Salah-Mahmoud" /> 
@@ -21,7 +21,6 @@
   </a> 
 </p>
 
-- 🌱 I’m currently learning **Data Science, Machine Learning, Deep Learning, Data Analysis, and Computer Vision**
 - 📫 How to reach me **salah.mahmoud8889@gmail.com**
 
 ---
@@ -44,7 +43,7 @@
     <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="Hive" width="40" height="40"/> 
   </a>
   <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/apache_airflow/apache_airflow-icon.svg" alt="Airflow" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/apache_airflow/apache_airflow-ar21.svg" alt="Airflow" width="40" height="40"/> 
   </a>
   <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="Hadoop" width="40" height="40"/> 
@@ -86,4 +85,8 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Salah-Mahmoud&show_icons=true&locale=en&layout=compact"
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Salah-Mahmoud&show_icons=true&locale=en&layout=compact" alt="Salah Mahmoud's Top Languages" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Salah-Mahmoud&show_icons=true&locale=en" alt="Salah Mahmoud's GitHub Stats" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Salah-Mahmoud&" alt="Salah Mahmoud's GitHub Streak Stats" /></p>
