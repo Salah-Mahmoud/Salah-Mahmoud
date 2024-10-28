@@ -43,7 +43,7 @@
     <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="Hive" width="40" height="40"/> 
   </a>
   <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/apache_airflow/apache_airflow-ar21.svg" alt="Airflow" width="40" height="40"/> 
+    <img src="[https://www.vectorlogo.zone/logos/apache_airflow/apache_airflow-ar21.svg](https://graphsandnetworks.com/wp-content/uploads/2023/01/AirflowLogo-1030x541.png)" alt="Airflow" width="40" height="40"/> 
   </a>
   <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="Hadoop" width="40" height="40"/> 
